@@ -1,2 +1,3 @@
 # knowledge-sharing
-Notes for development experience summary. 
+
+Notes for development experience summary.
