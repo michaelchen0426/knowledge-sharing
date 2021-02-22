@@ -9,6 +9,7 @@
 - npm
 - Prettier
 - Python
+- Version Lens (show latest npm package version in package.json file)
 
 ## Auto formatting the code
 
